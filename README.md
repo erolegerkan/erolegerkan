@@ -7,11 +7,11 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-- Dart, Python, C#, SQL
+- Dart,Kotlin,Python, C#, SQL
 
 **Frameworks & Tools:**  
 - Flutter, React  
-- Git, VSCode, pgAdmin
+- Git, VSCode, Android Studio,pgAdmin
 
 **Areas of Interest:**  
 - Mobile App Development  
@@ -23,7 +23,7 @@
 
 ## 📈 What I'm Working On
 
-- 🌱 Improving my Flutter & .NET skills  
+- 🌱 Improving my Flutter & Kotlin skills  
 - 🔐 Working on cybersecurity practices in mobile apps and backend services 
 - 🧠 Exploring Python in AI & data-related projects  
 - 🛠️ Building personal apps
