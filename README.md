@@ -11,7 +11,7 @@
 
 **Frameworks & Tools:**  
 - Flutter, React  
-- Git, VSCode, Android Studio,pgAdmin
+- Git, VS Code, Firebase, Android Studio, pgAdmin
 
 **Areas of Interest:**  
 - Mobile App Development  
@@ -34,6 +34,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/erol-ege-erkan)  
 - 🧑‍💻 [GitHub](https://github.com/erolegerkan)
+- ✍️ [Medium](https://medium.com/@erolegeerkan)
 
 ---
 
