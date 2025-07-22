@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Erol Ege ERKAN
 
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/727a3626-ac53-4af4-a63b-58c42f0e804a" />
-
+![image](https://github.com/user-attachments/assets/dabce395-4535-41f3-80f0-6d79602b884d)
 
 🚀 I'm passionate about mobile technologies, building reliable apps, improving performance and user experience, and keeping up with new trends.
 
