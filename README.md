@@ -1,29 +1,27 @@
 # 👋 Hi, I'm Erol Ege ERKAN
 
-🚀 I'm passionate about mobile technologies, building reliable apps, improving performance and user experience, and keeping up with new trends – especially in Flutter, AI, and cybersecurity.
+🚀 I'm passionate about mobile technologies, building reliable apps, improving performance and user experience, and keeping up with new trends.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-- Dart,Kotlin,Python, C#, SQL
+- Dart, Go, Python, C#, SQL
 
 **Frameworks & Tools:**  
-- Flutter, React  
+- Flutter, React, .NET  
 - Git, VS Code, Firebase, Android Studio, pgAdmin
 
 **Areas of Interest:**  
 - Mobile App Development  
 - Backend Development  
-- Cybersecurity  
-- AI & Data Analysis
-
+- Cybersecurity
 ---
 
 ## 📈 What I'm Working On
 
-- 🌱 Improving my Flutter & Kotlin skills  
+- 🌱 Improving my Flutter & backend development skills with Go-lang and .NET  
 - 🔐 Working on cybersecurity practices in mobile apps and backend services 
 - 🧠 Exploring Python in AI & data-related projects  
 - 🛠️ Building personal apps
