@@ -3,7 +3,7 @@ Loves R&D
 
 Continuous learner and developer
 
-![image](https://github.com/user-attachments/assets/dabce395-4535-41f3-80f0-6d79602b884d)
+![image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh5cjJhYXQ1MjdpcHlxa2dzcnBscXdseWNubDlhbGVwYjkyZTM2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif)
 
 ---
 
